@@ -64,3 +64,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Sam Hemingway](https://www.linkedin.com/in/sam-hemingway/)
 - Frontend Mentor - [@SamHemingway](https://www.frontendmentor.io/profile/SamHemingway)
+
+### Acknowledgements
+
+- Thanks to [@FluffyKas](https://www.frontendmentor.io/profile/FluffyKas) for helping me find a less hacky way of vertically centering an element!
