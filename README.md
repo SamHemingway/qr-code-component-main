@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -48,7 +48,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - When building the container, I initially set the width attribute to be the exact width shown in the Figma file (320px). Didn't work: After the left/right padding was taken into account, the container ended up being too wide. Simply reduced the width property to compensate (most likely a hacky solution and there's a better way to do it that I'll learn in the future).
 - How to actually use git!
 
-
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
@@ -57,7 +56,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- (https://css-tricks.com/centering-css-complete-guide/) - Helped me understand centering vertically via CSS.
+- (https://css-tricks.com/centering-css-complete-guide/) - Helped me understand centering vertically via CSS, but it felt hacky.
+- (https://css-vertical-center.com/#/) — Used transform method in the end to make work with both Safari/Chrome.
 - I would have normally expected to include guides here on how to create rounded corners and drop shadows with CSS, but I figured out how to get this info straight from Figma. Not sure if this is good practice or not — should learn it from a guide anyways to increase understanding.
 
 ## Author
